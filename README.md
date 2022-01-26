@@ -1,4 +1,4 @@
-<h1 align="center">🤠 Howdy! I'm am abh8</h1>
+<h1 align="center">🤠 Howdy! I'm abh8</h1>
 
 <p align="center">
 I'm a student, having experience working on automation projects in python.
@@ -13,6 +13,9 @@ I can be reached at
   [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40iabh8)](https://twitter.com/i_abh8)
 </div>
 <br>
+
+
+<h2> This is how i would describe myself </h2>
 
 ```python
 class iabh8:
