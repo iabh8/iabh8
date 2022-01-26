@@ -1,5 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif"]
-
 - 👋 Hi, I’m @iabh8
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
