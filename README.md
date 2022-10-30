@@ -1,4 +1,4 @@
-<h1 align="center">🤠 Howdy! I'm abh8</h1>
+<h1 align="center">🤠 Howdy! I'm Abhinav Madhusoodanan</h1>
 
 <p align="center">
 I'm a student, having experience working on automation projects in python.
@@ -22,8 +22,8 @@ class iabh8:
 
     def __init__(self):
         self.username = 'iabh8'
-        self.name = 'abh8'
-        self.web = 'https://iabh8.me'
+        self.name = 'Abhinav Madhusoodanan'
+        self.web = 'https://iabh8.github.io'
         self.twitter = '@iabh8'
         self.code = {
             'languages':['Python', 'Javascript', 'Dart'],
